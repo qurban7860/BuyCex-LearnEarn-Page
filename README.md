@@ -7,14 +7,6 @@ This README provides an overview of the design and structure for the "Learn & Ea
 
 The BuyCEX Learn & Earn page is a cutting-edge platform designed and developed to offer users a seamless and interactive learning experience combined with the opportunity to earn rewards, inspired by the renowned Binance Earn page. With its advanced features and responsive design, BuyCEX sets a new standard in the realm of cryptocurrency education and incentivized learning.
 
-### Section 1: Introduction to Bitcoin
-- **Layout:** Flex container with two flex items arranged in a row.
-- **Content:** Includes an image carousel or slideshow with educational content about Bitcoin. Each slide may contain images, text, and interactive elements.
-
-### Section 2: Gamified Learning Platform
-- **Layout:** Flex container with two flex items arranged in a row.
-- **Content:** Features a gamified learning platform where users can earn rewards for completing educational tasks or quizzes related to cryptocurrency and blockchain technology.
-
 ## HTML Code Structure:
 
 The HTML code consists of structured elements to organize the content and layout of the "Learn & Earn" page.
@@ -24,8 +16,9 @@ The HTML code consists of structured elements to organize the content and layout
 - External images and assets for educational content
 
 ## Notes:
-- The design focuses on engaging users through visually appealing educational content and gamification elements.
 - Interactive elements such as quizzes and tasks may require additional JavaScript functionality for interactivity and user feedback.
+- Utilized Tailwind CSS for better performance and for responsiveness.![Learn and earn page](https://github.com/qurban7860/BuyCex-LearnEarn-Page/assets/130245638/f4899cf5-86d0-45c6-8c37-7761b98815a2)
+
 
 ---
 
