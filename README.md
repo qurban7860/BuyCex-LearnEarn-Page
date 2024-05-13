@@ -1,6 +1,3 @@
-Certainly! Here's an updated README file tailored to the "Learn & Earn" page design and structure:
-
----
 
 # Learn & Earn Page Design and Structure
 
